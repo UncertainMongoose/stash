@@ -4884,3 +4884,8 @@ div.thumbnail-section
 	stroke: var(--background);
 	stroke-width: 15;
 }
+.tag-card.zoom-0.grid-card.card 
+    button.favorite-button {
+    z-index: 1;
+    top: 0.2em;
+}
