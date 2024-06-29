@@ -3894,6 +3894,17 @@ table-list .comma-list.overflowable:hover {
     border-color: var(--purple);
 }
 
+.setting-section .clearable-text-field-clear.btn.btn-secondary {
+    color: var(--foreground);
+    border: none;
+    background-color: transparent;
+}
+
+.setting-section .clearable-text-field-clear.btn.btn-secondary:hover {
+    color: var(--red);
+    border: none;
+    background-color: transparent;
+}
 
 #settings-container {
     margin-top: 10px;
